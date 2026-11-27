@@ -18,7 +18,7 @@ You will perform **system testing** on the **Wallet-Lite API** — a mobile-wall
 
 * **Before you start:** watch the class videos and tutorials first — they cover the concepts and workflow you'll need.
 * **You do not need to run or install the project yourself.** The base URL and other access details are shared in the course email and tutorial.
-* **Specifications:** Use the [API References](./documentation/api-references.md) and [Business Rules](./documentation/business-rules.md) for endpoint contracts and expected behavior.
+* **Specifications:** Use the [API References](./api-references.md) and [Business Rules](./business-rules.md) for endpoint contracts and expected behavior.
 * **Do not** copy API specifications into your report. Reference the documentation instead.
 
 ## Important context
